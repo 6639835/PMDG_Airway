@@ -1,5 +1,3 @@
-import csv
-
 # 从 earth_nav.dat 文件中获取经纬度
 def get_earth_nav_coordinates(waypoint_identifier, earth_nav_file):
     try:
